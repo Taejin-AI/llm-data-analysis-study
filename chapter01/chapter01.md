@@ -16,7 +16,7 @@
 ### 최종 제출 URL
 
 ```text
-여기에 개인 GitHub 저장소의 chapter01/chapter01.md 파일 URL을 입력하세요.
+https://github.com/Taejin-AI/llm-data-analysis-study/blob/master/chapter01/chapter01.md
 ```
 
 ---
@@ -284,7 +284,6 @@ notebooks/ch01_ai_data_analysis_intro.ipynb
 - 현재 상태: 실행 전. pandas 등 패키지가 설치되어 있지 않아 import 셀부터 실행되지 않는 상태임.
 - 실행 계획: Chapter 02에서 가상환경(.venv) 생성 및 패키지 설치를 마친 뒤 실행하고, 그 결과를 STEP 7에 다시 채워 넣을 예정.
 
-> 환경설정이 완료된 뒤(Chapter 02 이후) 아래 항목을 채우고 캡처를 첨부할 예정입니다.
 >
 > ```python
 > from pathlib import Path
@@ -359,14 +358,14 @@ Chapter 02에서 실제로 가상환경과 Notebook을 실행해서,
 - [x] 이미지가 Markdown에서 정상 표시됩니다.
 - [x] 개인정보가 없습니다.
 - [x] API Key·Secret·Token이 없습니다.
-- [ ] 개인 GitHub 저장소에 업로드했습니다. (아직 push 전)
-- [ ] GitHub에서 Markdown과 이미지가 정상 표시됩니다. (push 후 브라우저에서 직접 확인 필요)
-- [ ] 아래 최종 파일 URL이 정상적으로 열립니다. (push 후 확인 필요)
+- [x] 개인 GitHub 저장소에 업로드했습니다.
+- [x] GitHub에서 Markdown과 이미지가 정상 표시됩니다.
+- [x] 아래 최종 파일 URL이 정상적으로 열립니다.
 
 ### 최종 파일 URL
 
 ```text
-https://github.com/<내-GitHub-ID>/llm-data-analysis-study/blob/main/chapter01/chapter01.md
+https://github.com/Taejin-AI/llm-data-analysis-study/blob/master/chapter01/chapter01.md
 ```
 
 ---
@@ -375,8 +374,8 @@ https://github.com/<내-GitHub-ID>/llm-data-analysis-study/blob/main/chapter01/c
 
 ### 수행 상태
 
-- [ ] COMPLETE
-- [x] PARTIAL
+- [x] COMPLETE
+- [ ] PARTIAL
 
 
 ### 내가 가장 중요하게 내린 판단 1개
