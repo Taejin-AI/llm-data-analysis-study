@@ -7,7 +7,7 @@
 - 이름: 장태진
 - GitHub ID: Taejin-AI
 - 개인 저장소: `llm-data-analysis-study`
-- 작성일: 2026.09.17
+- 작성일: 2026.09.16
 - 운영체제: Windows 10
 
 ### 최종 제출 URL
