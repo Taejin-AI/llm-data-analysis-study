@@ -156,7 +156,7 @@ customers.shape: (150, 6)
 
 ### 결과 관찰
 
-프로젝트 루트에서 `python scripts/generate_sample_data.py`를 실행하자 `data/raw/customers.csv`, `products.csv`(100행), `orders.csv`(300행), `order_items.csv`(764행)가 생성되었다. Notebook에서 `customers.csv`를 `pd.read_csv`로 불러온 결과 `customers.head()`가 오류 없이 출력되었고, `customers.shape`는 `(150, 6)`, `customers.columns`는 `customer_id, name, gender, age, city, signup_date` 6개 컬럼으로 확인되었다. `customers.info()`에서도 6개 컬럼 모두 결측치(Non-Null Count) 없이 150행이 채워져 있었다.
+프로젝트 루트에서 `python scripts/generate_sample_data.py`를 실행하자 `data/raw/customers.csv`, `products.csv`(100행), `orders.csv`(300행), `order_items.csv`(764행)가 생성되었습니다. Notebook에서 `customers.csv`를 `pd.read_csv`로 불러온 결과 `customers.head()`가 오류 없이 출력되었고, `customers.shape`는 `(150, 6)`, `customers.columns`는 `customer_id, name, gender, age, city, signup_date` 6개 컬럼으로 확인되었습니다. `customers.info()`에서도 6개 컬럼 모두 결측치(Non-Null Count) 없이 150행이 채워져 있었습니다.
 
 ### 나의 해석과 판단
 
